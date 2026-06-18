@@ -1,16 +1,22 @@
-## Hi there 👋
+# I'm yuki
 
-<!--
-**yuki125-1216/yuki125-1216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<picture>
+    < img align="right" width="50%" src="/WriteCodes.png">
+</picture>
 
-Here are some ideas to get you started:
+Personality type: INTJ-T.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Taking paid coding commissions.
+
+You can reach me here:
+
+
+- QQ： [1364493208]
+
+- WeChat： [G1251216]
+
+- Gmail： [1364493208@qq.com]
+
+<picture>
+    < img src="/github-metrics.svg">
+</picture>
