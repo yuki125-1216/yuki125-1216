@@ -1,7 +1,7 @@
 # I'm yuki
 
 <picture>
-    < img align="right" width="50%" src="/WriteCodes.png">
+    <img align="right" width="50%" src="/WriteCodes.png">
 </picture>
 
 Personality type: INTJ-T.
@@ -18,5 +18,5 @@ You can reach me here:
 - Gmail： [1364493208@qq.com]
 
 <picture>
-    < img src="/github-metrics.svg">
+    <img src="/github-metrics.svg">
 </picture>
