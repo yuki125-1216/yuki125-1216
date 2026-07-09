@@ -4,7 +4,7 @@
     <img align="right" width="50%" src="/WriteCodes.png">
 </picture>
 
-Personality type: INTJ-T.
+Personality type: ENFP-A.
 
 Taking paid coding commissions.
 
