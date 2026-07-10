@@ -1,11 +1,14 @@
 # I'm yuki
 
+<picture>
+    <img align="right" width="50%" src="/yuki.png">
+</picture>
+
 Personality type: ENFP-A.
 
 Taking paid coding commissions.
 
 You can reach me here:
-
 
 - QQ： [1364493208]
 
